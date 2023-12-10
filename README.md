@@ -1,6 +1,6 @@
 # Lvimrc
 ##      Hey,guys!
-This a vim config.\
+This a vim config.
 ### How to download it 
 Before download the file.
 you need have vim-plug!\
