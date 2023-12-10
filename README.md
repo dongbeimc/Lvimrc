@@ -12,7 +12,7 @@ Put it in C:\Users\ your username.
 4.auto-pairs\
 5.tagbar\
 6.delimitmate\
-7.LeaderF\
+7.LeaderF
 ### Appearance
 ![image](https://github.com/dongbeimc/Lvimrc/assets/135514920/36f38bb7-38be-49c4-b80c-6e2fc3516b98)
 
