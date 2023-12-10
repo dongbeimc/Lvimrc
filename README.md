@@ -14,7 +14,7 @@ Put it in C:\Users\ your username.
 6.delimitmate\
 7.LeaderF
 
-###shortcut key
+### Shortcut key
 gd 找到该函数定义\
 ,m 打开neadtree\
 K 找到函数规则\
